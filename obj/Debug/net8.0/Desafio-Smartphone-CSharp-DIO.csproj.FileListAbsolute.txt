@@ -1,0 +1,14 @@
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\bin\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.exe
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\bin\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.deps.json
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\bin\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.runtimeconfig.json
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\bin\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.dll
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\bin\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.pdb
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.AssemblyInfoInputs.cache
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.AssemblyInfo.cs
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.csproj.CoreCompileInputs.cache
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.dll
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\refint\Desafio-Smartphone-CSharp-DIO.dll
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.pdb
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\Desafio-Smartphone-CSharp-DIO.genruntimeconfig.cache
+C:\Users\David Coelho\source\repos\Desafio-Smartphone-CSharp-DIO\Desafio-Smartphone-CSharp-DIO\obj\Debug\net8.0\ref\Desafio-Smartphone-CSharp-DIO.dll
